@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Gabriel Oliveira</h1>
-<h3 align="center">Sou estudante de sistemas de São Paulo</h3>
+<h3 align="center">Sou estudante de desenvolvimento de sistemas de São Paulo</h3>
 
 - 🌱 Atualmente estou estudando: **Ruby**
 
