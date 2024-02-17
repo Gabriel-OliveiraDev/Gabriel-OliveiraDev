@@ -1,7 +1,8 @@
 <h1 align="center">Olá, me chamo Gabriel Oliveira</h1>
 <h3 align="center">Sou estudante de desenvolvimento de sistemas</h3>
 
-- 🌱 Atualmente estou estudando: **Ruby**
+
+- 🌱 Atualmente estou estudando: **Ruby on Rails**
 
 - 📫 Me encontre em: **gabrieloliveira663@icloud.com**
 
@@ -11,3 +12,4 @@
 <p> PostgreSQL </p>
 <p> Javascript </p>
 <p> Bootstrap </p>
+<p> Html - CSS </p>
