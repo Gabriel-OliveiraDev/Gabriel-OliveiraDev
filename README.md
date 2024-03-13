@@ -8,8 +8,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p> Ruby - Ruby on Rails  </p>
+<p> Ruby/Rails </p>
 <p> PostgreSQL </p>
 <p> Javascript </p>
-<p> Bootstrap </p>
-<p> Html - CSS </p>
+<p> React Native </p>
+<p> Html - Css </p>
