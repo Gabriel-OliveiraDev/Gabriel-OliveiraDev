@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center">Olá, me chamo Gabriel Oliveira</h1>
-<h3 align="center">Desenvolvedor Web</h3>
 
-🌱 Desenvolvedor **React Native**
+🌱 Sou Desenvolvedor **React Native**
 
 📫 Me encontre em: **gabrieloliveira663@icloud.com**
 
